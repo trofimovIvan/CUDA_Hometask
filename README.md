@@ -4,8 +4,8 @@ This repo was created by Trofimov Ivan, MIPT student. Here you can find a hometa
 
 Results: 
          
-         time for GPU global: 20.68 ms
+         time for GPU global: 182.24 ms
 
-         time for GPU pinned: 8.04 ms
+         time for GPU pinned: 173.52 ms
          
-         time for GPU threads: 16.01 ms
+         time for GPU threads: 336.6 ms
